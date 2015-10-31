@@ -1,0 +1,5 @@
+insert into ankieta values (1,'Ankieta odnośnie budowy parku przy szkole nr 5','2015-11-01 00:00:00','2015-11-30 00:00:00');
+insert into ankieta values (2,'Ankieta odnośnie zagodosporowania placu przy ul. Miedzianej','2015-11-01 00:00:00','2015-12-31 00:00:00');
+insert into ankieta values (3,'Głosowanie w sprawie wyboru przedstawiciela osiedla Fenikowskiego','2015-11-01 00:00:00','2016-01-31 00:00:00');
+insert into ankieta values (4,'Ankieta o nas','2015-11-01 00:00:00','2016-03-31 00:00:00');
+insert into ankieta values (5,'Ankieta odnośnie procedur w urzędzie miejskim','2015-11-01 00:00:00','2016-03-31 00:00:00');

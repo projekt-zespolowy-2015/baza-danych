@@ -1,0 +1,22 @@
+insert into opcje values (1,'park',2);
+insert into opcje values (2,'plac zabaw',2);
+insert into opcje values (3,'sklep spożywczy',2);
+insert into opcje values (4,'muzeum',2);
+
+
+insert into opcje values (5,'Jan Matejko',3);
+insert into opcje values (6,'Jadwiga Kazub',3);
+insert into opcje values (7,'Krystian Mickiewicz',3);
+insert into opcje values (8,'Anna Kowalska',3);
+
+
+
+insert into opcje values (9,'Miła obsługa',5);
+insert into opcje values (10,'Szybki helpdesk',5);
+insert into opcje values (11,'Długie oczekiwanie na rozwiązanie problemu',5);
+insert into opcje values (12,'Wolno działający serwis',5);
+
+
+insert into opcje values (13,'Obsługę',7);
+insert into opcje values (14,'Czas oczekiwania na wnioski',7);
+insert into opcje values (15,'Skrócenie kolejek',7);

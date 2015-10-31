@@ -1,0 +1,2 @@
+insert into kategoria_pytania values (1,'tak/nie');
+insert into kategoria_pytania values (2,'lista');

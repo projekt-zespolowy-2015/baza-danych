@@ -1,0 +1,50 @@
+insert into adres values (1,'Gdańsk','Szkolna','15',
+'2','84-250');
+insert into adres values (2,'Wejherowo','Długa','1',
+'','84-200');
+insert into adres values (3,'Gdynia','Mickiewicza','2',
+'4','84-240');
+insert into adres values (4,'Rumia','Prosta','15',
+'',84-251');
+insert into adres values (5,'Reda','Jana Pawła II','2',
+'','84-251');
+insert into adres values (6,'Tczew','Główna','57',
+'2','80-250');
+insert into adres values (7,'Władysławowo','Abrahama','10',
+'',');
+insert into adres values (8,'Gniewino','Pomorska','7',
+'24','84-250');
+insert into adres values (9,'Luzino','Wolna','5',
+'','84-242');
+insert into adres values (10,'Orle','Grzybowa','8',
+'','84-252');
+insert into adres values (11,'Puck','Nowy Świat','5',
+'4/C','84-100');
+insert into adres values (12,'Puck','Abrahama','20',
+'16','84-100');
+insert into adres values (13,'Reda','Olimpijska','9',
+'39','84-240');
+insert into adres values (14,'Rumia','Wrocławska','11',
+'35','84-230');
+insert into adres values (15,'Rumia','Sobieskiego','19',
+'44A','84-230');
+insert into adres values (16,'Strzebielino','Henryka Sienkiewicza','',
+'21B','84-220');
+insert into adres values (17,'Strzebielino','Piotra Skargi','',
+'9','84-220');
+insert into adres values (18,'Wejherowo','Jana III Sobieskiego','B/27',
+'350B','84-200');
+insert into adres values (19,'Wejherowo','Kaszubskie','54',
+'16','84-200');
+insert into adres values (20,'Białogóra','Harcerska','7',
+'','84-113');
+insert into adres values (21,'Chynowie','','3',
+'','84-251');
+insert into adres values (22,'Dębki','Bursztynowa','3',
+'','84-110');
+insert into adres values (23,'Dębki','Morska','2',
+'','84-110');
+insert into adres values (24,'Gdynia','Kartuska','49',
+'46','84-002');
+insert into adres values (25,'Gdynia','Morska','19',
+'11','84-323');

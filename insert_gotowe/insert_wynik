@@ -1,0 +1,26 @@
+insert into wynik_lista values (1,1,1);
+insert into wynik_lista values (2,0,2);
+insert into wynik_lista values (3,5,3);
+insert into wynik_lista values (4,7,4);
+
+insert into wynik_lista values (5,1,5);
+insert into wynik_lista values (6,0,6);
+insert into wynik_lista values (7,5,7);
+insert into wynik_lista values (8,7,8);
+
+insert into wynik_lista values (9,2,9);
+insert into wynik_lista values (10,0,10);
+insert into wynik_lista values (11,0,11);
+insert into wynik_lista values (12,7,12);
+
+insert into wynik_lista values (9,10,13);
+insert into wynik_lista values (10,0,14);
+insert into wynik_lista values (11,55,15);
+
+
+
+
+
+insert into wynik_bool values (1,10,2,1);
+insert into wynik_bool values (2,24,0,4);
+insert into wynik_bool values (3,5,30,6);
