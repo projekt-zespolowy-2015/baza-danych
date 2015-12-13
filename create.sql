@@ -4,7 +4,7 @@ CREATE TABLE `mieszkaniec` (
 	`imie`	TEXT,
 	`nazwisko`	TEXT,
 	`telefon`	NUMERIC,
-	`e-mail`	TEXT,
+	`email`	TEXT,
 	PRIMARY KEY(id_mieszkaniec)
 );
 
